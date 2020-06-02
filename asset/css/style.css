@@ -1,0 +1,13 @@
+@import url("header.css");
+@import url("nav-bot.css");
+@import url("main.css");
+@import url("footer.css");
+
+
+/* ************PHÂN TRANG************ */
+.list-page{
+    text-align: center;
+}
+
+/* *************END****************** */
+

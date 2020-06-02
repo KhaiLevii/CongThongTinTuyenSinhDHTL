@@ -1,0 +1,37 @@
+/* ************FOOTER************* */
+#footer{
+    color: #fff;
+    background: #292929;
+    padding: 30px 0;
+}
+#footer .footer__wrapp{
+    display: flex;
+}
+#footer #footer__left{
+    flex: 0 0 70%;
+    width: 70%;
+}
+#footer #footer__left .address-warpp{
+    display: flex;
+}
+#footer #footer__left .address-warpp .address{
+    width: 50%;
+}
+#footer__left .address-warpp .address h1{
+    font-size: 15px;
+    font-weight: 700;
+}
+#footer #footer__right{
+    flex-grow: 1;
+}
+#footer #footer__right .social-icons{
+    display: flex;
+}
+#footer__right .social-icons i{
+    margin-left: 15px;
+    font-size: 3em;
+}
+#footer #footer__right .banquyen{
+    font-size: 18px;
+}
+/* *************END************* */
